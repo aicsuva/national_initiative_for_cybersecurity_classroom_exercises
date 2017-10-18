@@ -11,7 +11,7 @@ This repo lists a few cybersecurity exercises we developed for use in a classroo
 ### Joining the Team
 You are welcome to test the exercises available here. We highly appreciate sharing your feedback with us.
 
-If you developed exercises you'd like to share with others through this initiative, or would like to gain access to all of our exercises, please e-mail Ahmed Ibrahim (a.i@virginia.edu) for information.
+If you developed exercises you'd like to share with others through this initiative, or would like to gain access to all of our exercises (available in a private GitHub repo), please feel free to e-mail Ahmed Ibrahim (a.i@virginia.edu) for information.
 
 ---
 
