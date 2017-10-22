@@ -5,6 +5,8 @@
 
 To run this exercise, start by setting up the exercise environment as directed in the ```LabSetup.pdf``` (STILL WORKING ON IT). Then, you can follow the ```SSL_TLS Session Hijacking.pdf``` documentation.
 
+After you finish the exercise, kindly take the following quick survey: https://goo.gl/forms/OoII6AYMxZB1H6rn1
+
 Please report any suggestions, errors, or mistakes to a.i@virginia.edu.
 
 ### Joining the Team
