@@ -1,4 +1,4 @@
-# National Initiative for Cybersecurity Classroom Exercises (NICCE)
+# National Initiative for Hands-on Cybersecurity Classroom Exercises (NICCE)
 
 We are a group of U.S. based professors aiming to enhance the skills of undergraduates interested in cybersecurity.
 
