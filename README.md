@@ -7,10 +7,13 @@ This repo lists a few cybersecurity exercises we developed for use in a classroo
 ### Contributors
 D
 - Jun Dai (jun.dai@csus.edu)
+
 I
 - Ahmed Ibrahim (a.i@virginia.edu)
+
 J
 - Terri Johnson (terri.johnson@ppcc.edu) 
+
 K
 - Chadi El Kari (celkari@pacific.edu)
 
