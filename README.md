@@ -8,6 +8,7 @@ This repo lists a few cybersecurity exercises we developed for use in a classroo
 - Ahmed Ibrahim (a.i@virginia.edu)
 - Chadi El Kari (celkari@pacific.edu)
 - Jun Dai (jun.dai@csus.edu)
+- Terri Johnson (terri.johnson@ppcc.edu) 
 
 ### Joining the Team
 You are welcome to test the exercises available here. We highly appreciate sharing your feedback with us.
