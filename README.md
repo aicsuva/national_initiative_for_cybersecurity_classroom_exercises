@@ -1,6 +1,6 @@
 # National Initiative for Hands-on Cybersecurity Classroom Exercises (NIHCCE)
 
-We are a group of U.S. based professors aiming to enhance the skills of undergraduates interested in cybersecurity.
+We are a group of U.S. based professors, teachers, and professionals aiming to enhance the skills of undergraduates interested in cybersecurity.
 
 This repo lists a few cybersecurity exercises we developed for use in a classroom setting.
 
