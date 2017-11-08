@@ -24,6 +24,6 @@ If you developed exercises you'd like to share with others through this initiati
 
 ---
 
-&copy; Ahmed Ibrahim, 2017
+&copy; NIHCCE, 2017
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/.
